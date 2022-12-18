@@ -1,0 +1,180 @@
+Nguyen Duc An; HA160101; SE1711; 9; 7.5; 6.5; 8.9; 24
+Pham Xuan Bach; HE153678; SE1711; 8.7; 6.7; 6.4; 8.9; 14
+Nguyen Anh Duc; HE153720; SE1711; 5.9; 8.3; 9; 5.6; 3
+Doan Duc Quan; HE160304; SE1711; 8.4; 8.6; 9; 8.2; 18
+Tran Thi Thuy Dung; HE160364; SE1711; 7.4; 9.3; 6.7; 9.9; 16
+Ha Van Manh; HE160395; SE1711; 9; 5.9; 8.3; 10; 20
+Nguyen Thanh Sang; HE160447; SE1711; 6.2; 5.8; 8.5; 7.1; 26
+Nguyen Van Hoang; HE160450; SE1711; 8.1; 8; 8.1; 7.9; 16
+Nguyen Trung Hieu; HE160630; SE1711; 8.2; 7.2; 9; 8.9; 19
+Tran Tien Dat; HE160748; SE1711; 8.7; 6.1; 8.2; 9.5; 13
+Do Anh Tu; HE160774; SE1711; 8.2; 8.8; 7.8; 8.9; 27
+Phung Quang Manh; HE160909; SE1711; 8.3; 8.5; 6.7; 9; 13
+Doan Hoang Viet Anh; HE161143; SE1711; 6.8; 7.5; 5.6; 6.6; 10
+Tran Hai Binh; HE161243; SE1711; 7.1; 7.8; 6.3; 8.5; 10
+Dam Tuan Dai; HE161326; SE1711; 7.2; 5.8; 6.4; 9; 9
+Tong Quang Viet Hung; HE161473; SE1711; 5.8; 8.5; 5.8; 9; 6
+Nguyen Tri Vuong; HE161634; SE1711; 5.6; 7.6; 8.4; 5.6; 27
+Dinh Duc Minh; HE161671; SE1711; 9; 7.7; 7.1; 8.1; 7
+Nguyen Tien Dung; HE161912; SE1711; 8.3; 7.1; 5; 9.1; 4
+Nguyen Hoang Khanh; HE163125; SE1711; 7.4; 7.3; 7.1; 8.8; 10
+Duong Vinh Tuan; HE163181; SE1711; 9; 8.3; 9; 9.2; 13
+Nguyen Ngoc Sang; HE163361; SE1711; 9; 9.2; 9; 5.4; 22
+VU TRUNG HIEU; HE163586; SE1711; 5.3; 9.2; 9; 7.5; 25
+Nguyen Bao Lam; HE163792; SE1711; 7.3; 7.3; 7.3; 8.7; 23
+Dinh Dai Nam; HE163800; SE1711; 7.2; 7.1; 6.3; 5.5; 12
+Bui Van Truong; HE163803; SE1711; 7.7; 7.8; 9.8; 9.9; 29
+Le Van Duong; HE163883; SE1711; 7.5; 5; 8.6; 9.9; 7
+Tran Tho Hung; HE163902; SE1711; 5.3; 6.3; 7.7; 7.9; 14
+Tran Van Thanh; HE163915; SE1711; 7.4; 9; 8.5; 8.1; 22
+Ma Bao Khanh; HS163495; SE1711; 9.3; 9; 8.4; 6.7; 25
+Nguyen Huu Tuan; HE130479; SE1723; 6.7; 6.4; 9.7; 8.7; 27
+Vu Lap Bang; HE140647; SE1723; 8.9; 7.2; 7.5; 8.2; 10
+Nguyen Phuc Tien; HE141057; SE1723; 7.3; 9; 9.4; 8.2; 2
+Nguyen Duc Anh; HE151333; SE1723; 7.9; 5; 7.1; 5.4; 7
+Tong Van Vinh; HE160682; SE1723; 6.6; 7.8; 7.3; 7.7; 14
+Doan Dac Hau; HE160776; SE1723; 8.8; 8.5; 7.2; 7.4; 7
+Tong Quang Hung; HE161861; SE1723; 9.7; 6.4; 6.8; 7.6; 29
+Vu Danh Huy; HE161875; SE1723; 9; 8.8; 9.3; 8.1; 17
+Vu Duc Anh; HE163522; SE1723; 8.4; 9; 6.8; 6.3; 15
+Nguyen Minh Duc; HE163877; SE1723; 7.7; 7.6; 8.6; 7.6; 7
+Vu Minh Tam; HE170051; SE1723; 7.2; 7; 7.5; 7.7; 7
+Bui Hoang Long; HE170245; SE1723; 5.6; 6.9; 9.1; 5.3; 3
+Vu Duy Phuc; HE170422; SE1723; 8.6; 7.3; 9; 7.4; 6
+Tran Quang Huy; HE170428; SE1723; 6; 9; 9.6; 7.5; 20
+Pham Viet Long; HE170788; SE1723; 7.4; 8.6; 8.7; 7.1; 21
+Nguyen Thanh Hau; HE170842; SE1723; 7.2; 6.2; 5.9; 7.5; 11
+Nguyen Thi Khanh Huyen; HE170863; SE1723; 5.1; 8.6; 7.2; 8.4; 5
+Pham Truong Giang; HE170907; SE1723; 8.1; 7.4; 9; 7.5; 11
+Khieu Minh Duc; HE170996; SE1723; 7.5; 7.3; 7.7; 7.5; 12
+Vu Ngoc Nhat; HE171071; SE1723; 7; 8.6; 6.5; 6.2; 3
+Hoang Mai Phuong; HE171073; SE1723; 8.3; 7.8; 7.2; 9.3; 24
+Bui Tien Dung; HE171162; SE1723; 8.7; 7.7; 8.3; 6.1; 20
+Van Cong Quang Minh; HE171442; SE1723; 7; 5.1; 9.3; 8.4; 27
+Doan Lam Phuc; HE171687; SE1723; 9.8; 8.3; 5.4; 9; 23
+Nguyen Dinh Nghia; HE172579; SE1723; 9.3; 9; 9.8; 5.6; 20
+Trieu Thach An; HE176160; SE1723; 9; 8.7; 10; 8.5; 12
+Phan Viet Anh; HE176182; SE1723; 6.2; 5.5; 8.7; 5.4; 12
+Dinh Nhat Hoang; HE176586; SE1723; 5.7; 8.5; 8.1; 8.7; 13
+Nguyen Thi Cam Tu; HE176697; SE1723; 7.8; 8.6; 7.2; 9.9; 11
+Nguyen Quoc Dat; HE176751; SE1723; 7.5; 6.2; 8.1; 6.3; 14
+Pham Duc Manh; HE160198; SE1708; 7.5; 8.5; 6.2; 9.2; 19
+Nguyen Van Bao Nguyen; HE161342; SE1708; 6.6; 8.3; 8.4; 7.1; 16
+Bui Duc Toan; HE161559; SE1708; 8; 9.1; 9; 9; 10
+Nguyen Ngoc Huy; HE161762; SE1708; 8.4; 8.4; 7.2; 9.2; 12
+Nguyen Gia Khanh; HE163331; SE1708; 5.1; 9; 6.1; 8.6; 10
+Trinh Bao Long; HE163765; SE1708; 9; 7.6; 10; 8.5; 6
+Tran Ba Son Tung; HE163855; SE1708; 8; 7.4; 5.2; 9; 1
+Hoang Nhat Khanh; HE170088; SE1708; 6.6; 9.4; 8.4; 9.4; 9
+Nguyen Duc Anh; HE170145; SE1708; 5.7; 7.2; 6; 5.8; 0
+Duong Minh Duc; HE170373; SE1708; 8.3; 8.4; 8.8; 6.7; 26
+Ngo The Vinh; HE170433; SE1708; 6; 8.2; 7.3; 8.1; 3
+Bui Tien Anh; HE170507; SE1708; 5.2; 8.2; 8.4; 5.1; 11
+Phi Quang Duy; HE170539; SE1708; 7.4; 8.4; 8.9; 7.6; 25
+Tran Tuan Kiet; HE170577; SE1708; 9; 8.5; 9; 6.8; 11
+Nguyen Minh Tuan; HE170656; SE1708; 8.2; 8; 9; 7.7; 25
+Luu Quoc Anh; HE170698; SE1708; 7.4; 6.3; 7.8; 9; 12
+Ha Dinh Tam; HE170850; SE1708; 8.5; 8.2; 7.7; 6.7; 16
+Ngo Quang Minh; HE170867; SE1708; 9; 9; 9.2; 10; 1
+Dinh Quang Thuan; HE170881; SE1708; 7.7; 7.1; 7.5; 7.6; 4
+Bui Lan Viet; HE171037; SE1708; 7.6; 6.6; 9; 9.2; 18
+Tran Trong Duc; HE171555; SE1708; 7.7; 6.9; 6.3; 8.4; 27
+Dang Truong An; HE171662; SE1708; 9; 9; 6.3; 8.9; 27
+Le Manh Dung; HE171668; SE1708; 8.3; 9; 9.6; 7.1; 6
+Nguyen Tran Minh Duc; HE171669; SE1708; 9; 6.6; 5.2; 9; 12
+Tran Duc Nghia; HE171736; SE1708; 7.4; 8.7; 8.4; 8.8; 17
+Nguyen Minh Tuan; HE172118; SE1708; 7.5; 9; 6.3; 9; 12
+Hoang Bao Chau; HE173057; SE1708; 8.1; 7.5; 7.9; 8.4; 22
+Dinh Dai Duong; HE176496; SE1708; 5.1; 6.2; 7.5; 9; 26
+Nguyen Anh Quan; HE176660; SE1708; 8.3; 7.4; 7.7; 8.7; 25
+Trinh Dinh Dung; HE176740; SE1708; 5.4; 7.7; 9; 7.7; 3
+Hoang Phuong Nam; HE150251; IOT1701; 8.4; 9; 5.6; 9.6; 23
+Nguyen Viet Thang; HE160224; IOT1701; 9; 8; 7.5; 9; 15
+Pham Khai Van; HE160400; IOT1701; 9; 9; 5.1; 7; 3
+Tran Quy Dat; HE160668; IOT1701; 9.4; 5.2; 9.2; 6.5; 22
+Tran Dinh Tuan; HE160779; IOT1701; 9.3; 8.1; 9; 9.2; 12
+Nguyen Tuan Thanh; HE160963; IOT1701; 9.8; 7.2; 8.5; 5.4; 25
+Tran Danh Thuong; HE161177; IOT1701; 9.6; 8.7; 5.7; 9; 1
+Le Minh Tuan; HE161245; IOT1701; 5.3; 9; 7.7; 9; 2
+Hoang Thi Lan Nhi; HE161314; IOT1701; 7.4; 5.9; 6.9; 8.5; 17
+Phung Long Vu; HE161565; IOT1701; 7.6; 6.8; 7.4; 10; 8
+Hoang Hai Dang; HE161583; IOT1701; 6.6; 8.2; 7.6; 9; 18
+Vu Phung Anh; HE161648; IOT1701; 6; 6.9; 7.3; 8.6; 28
+Tran Viet Anh; HE161815; IOT1701; 6.8; 7.8; 10; 8.1; 16
+Truong Quoc Bao; HE161900; IOT1701; 8.1; 5.9; 7; 9; 5
+Nguyen Phuc Trong; HE163170; IOT1701; 7; 7.6; 5.7; 8.7; 6
+Nguyen Hoang; HE163430; IOT1701; 9.6; 5.4; 7.6; 7.4; 4
+Nguyen Thuy Linh; HE163546; IOT1701; 9; 7.2; 8.4; 8.9; 14
+Ta Viet Duc; HE163775; IOT1701; 5.6; 7.4; 8.7; 8.1; 5
+Ha Quoc Viet; HE163904; IOT1701; 7.3; 9; 8.7; 7.4; 11
+Tran Cong Hoang; HE170452; IOT1701; 7.5; 9; 9; 5.6; 2
+Le Quynh Chi; HE170564; IOT1701; 7.9; 7.1; 6.5; 9.3; 14
+Nguyen Duy Truong; HE170608; IOT1701; 7.1; 8.7; 7.6; 7.3; 10
+Pham Tuan Cuong; HE170676; IOT1701; 5.1; 6.7; 8.7; 8.4; 22
+Hoang Minh Toan; HE170692; IOT1701; 7.5; 8.4; 9; 8.6; 8
+Vu Minh Hieu; HE172039; IOT1701; 9; 6.5; 9; 9.2; 1
+Tran Hoang Thang; HE172588; IOT1701; 9.8; 6.2; 9.2; 9; 7
+Nguyen Van Nam; HE176006; IOT1701; 8.3; 9; 9; 6.1; 18
+Truong Quang Tung; HE176601; IOT1701; 8.4; 6.5; 8.4; 7.9; 7
+Vu Duc Dat; HE176651; IOT1701; 8.7; 9; 5.5; 8.9; 6
+Vu Tuan Linh; HE176900; IOT1701; 8.5; 8.4; 9; 7.3; 0
+Dao Hoai Nam; HE130139; SE1702; 9; 7.4; 8.4; 8.9; 12
+Phan Viet Bach; HE130919; SE1702; 9; 8.9; 9; 8.8; 29
+Nguyen Tan Minh; HE140368; SE1702; 7.3; 9; 8; 9.1; 2
+Dinh Van Dong; HE141083; SE1702; 9.6; 6.2; 7; 9; 27
+Phan Sy Nguyen; HE141227; SE1702; 7.2; 7; 6.5; 9; 11
+Ta Minh Hao; HE141382; SE1702; 8.2; 5.8; 8.1; 6.2; 2
+Ta Van Hoa; HE141383; SE1702; 7.8; 9; 8.6; 6.2; 9
+Nguyen Pham Binh Minh; HE141428; SE1702; 8.2; 9.6; 8.3; 6.1; 17
+Nguyen Anh Tuan; HE150484; SE1702; 7.5; 7.2; 8.2; 5.3; 1
+Kieu Tu Tam; HE150975; SE1702; 5.2; 7.6; 9; 9; 9
+Le Minh Tan; HE153001; SE1702; 8; 8; 8.6; 6.6; 25
+Pham Trong Thien; HE161597; SE1702; 6.5; 7.1; 8.9; 8.2; 16
+Dao Xuan Binh; HE163115; SE1702; 6.7; 7.2; 8.3; 8.2; 25
+Nguyen Trong Duc Huy; HE163538; SE1702; 9; 9; 9.2; 9.3; 21
+Pham Quang Thang; HE164010; SE1702; 9; 9; 7.4; 9; 1
+Hoang Duc Tam; HE170113; SE1702; 9; 5.2; 7.3; 9.5; 5
+Cat Ba Lan; HE170162; SE1702; 5.1; 8.9; 10; 5.3; 29
+Nguyen Thai Thinh; HE170395; SE1702; 5.7; 7.5; 6; 9; 30
+Tran Sy Cao Thien; HE170402; SE1702; 7.3; 7.2; 9; 7.3; 16
+Nguyen Quang Minh; HE170486; SE1702; 6.4; 8.8; 9; 9; 7
+Pham Nguyen Hoang Quang; HE170627; SE1702; 7.7; 7.2; 9; 5.3; 17
+Giang Hieu Minh; HE170873; SE1702; 8.2; 5.4; 7; 7.9; 7
+Dang Quoc Viet; HE170923; SE1702; 6.8; 7.6; 8.7; 6.7; 8
+Phan Khanh Hoang; HE170940; SE1702; 6.1; 6.1; 8.9; 9; 7
+Tran Quang Nam; HE170981; SE1702; 10; 9; 6.4; 6; 11
+Do Duc Hieu; HE171241; SE1702; 9; 8.6; 9; 8.5; 14
+Nham Manh Hung; HE171373; SE1702; 7.4; 9.2; 8.4; 8.1; 16
+Pham The Minh; HE171392; SE1702; 5.9; 9; 7.7; 9; 29
+Nguyen Hoang Duong; HE171448; SE1702; 8.7; 8.2; 5.4; 9.2; 7
+Tran Van Hao; HE176131; SE1702; 7.7; 9; 8.8; 7.8; 19
+Pham Van Cau; HE160302; SE1704; 7; 6.3; 6.6; 7.2; 11
+Bui Minh Hieu; HE160402; SE1704; 7.9; 8.4; 7.4; 7.4; 14
+Ha Thanh Tung; HE160895; SE1704; 6.7; 6.6; 7.9; 8.4; 5
+Tran Duc Anh; HE161165; SE1704; 9.6; 9.5; 9.9; 9.6; 20
+Vu Xuan Duc; HE161346; SE1704; 7.7; 8.1; 5.7; 8.6; 14
+Luong Minh Dung; HE163418; SE1704; 8; 7.6; 7.2; 6; 12
+Le Trong Khuong; HE163482; SE1704; 5.9; 8; 8.9; 8.7; 4
+Nguyen Anh Tuan; HE170268; SE1704; 9; 6.8; 5.3; 9.9; 7
+Cao Thanh Long; HE170489; SE1704; 8.1; 8.2; 9.4; 8.3; 10
+Pham Cong Thanh; HE170611; SE1704; 6.7; 9; 7.8; 9; 20
+Le Thanh Cong; HE170663; SE1704; 7.1; 6.9; 8.8; 8.1; 10
+Do Hoai Nam; HE171198; SE1704; 7.5; 7; 9.5; 7.3; 27
+Khuat Dai Nghia; HE171273; SE1704; 5.9; 8.3; 7.1; 7.4; 4
+Cao Quoc Trung; HE171833; SE1704; 8.4; 7.6; 9; 7.9; 13
+Cao Viet Hung; HE171860; SE1704; 7.3; 9; 8.2; 9; 29
+Tran Xuan Quang; HE171903; SE1704; 7.5; 9.8; 8.1; 9.8; 24
+Nguyen Minh Quang; HE172095; SE1704; 7.3; 8.5; 6.8; 9; 6
+Tran Minh Duc; HE173033; SE1704; 8.8; 8.4; 7.6; 5.4; 3
+Nguyen Minh Son; HE176004; SE1704; 7.6; 9; 10; 8.5; 24
+Luu Hai Duong; HE176069; SE1704; 9.9; 9.1; 8.9; 6.1; 25
+Nguyen Ngoc Hoang San; HE176209; SE1704; 5.4; 7.5; 7.2; 6.8; 1
+Lai Khanh Trang; HE176485; SE1704; 9; 5.9; 9.9; 8.9; 18
+Nguyen Gia Binh; HE176667; SE1704; 7.2; 7.3; 7.5; 5.2; 28
+Nguyen Tri Dung; HE176732; SE1704; 8.5; 9.2; 7.2; 7.2; 26
+Pham Van Viet Anh; HE176737; SE1704; 6.1; 7.5; 7.8; 8.4; 5
+Nguyen Phu Luong; HE176750; SE1704; 7.5; 7.2; 7.7; 6.5; 0
+Ngo Minh Khoi; HE176768; SE1704; 7; 8; 8.4; 5; 30
+Doan Sy Son; HE176797; SE1704; 8.4; 7.2; 7; 8.5; 24
+Nguyen Minh Tuan; HE179004; SE1704; 7; 9; 9; 7; 20
+Tran Minh Quan; HE179013; SE1704; 7.9; 7.2; 6.9; 9.6; 4
